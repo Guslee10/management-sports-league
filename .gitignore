@@ -1,0 +1,35 @@
+# Archivos compilados de C
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dll
+*.obj
+liga
+
+# Archivos exportados por el programa
+Lista_*.txt
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.directory
+
+# Carpetas de build
+build/
+dist/
+bin/
+Debug/
+Release/
+
+# Archivos temporales
+*.tmp
+*.bak
