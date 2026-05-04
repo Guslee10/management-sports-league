@@ -41,6 +41,7 @@ make
 ```
 
 ## 📁 Structure:
+```
 Management of the sports league/
 ├── main.c
 ├── Makefile
@@ -48,3 +49,5 @@ Management of the sports league/
 ├── README.md
 └── database/
     └── schema.sql
+```
+```
