@@ -29,6 +29,7 @@ It allows for the administration of players, teams, matches, and statistics for 
 1. Create database:
 ```sql
 CREATE DATABASE liga_univ_bd;
+```
 
 2. Execute schema:
 
@@ -49,5 +50,4 @@ Management of the sports league/
 ├── README.md
 └── database/
     └── schema.sql
-```
 ```
